@@ -110,7 +110,7 @@ spec:
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=footer" width="100%"/>
 
