@@ -21,10 +21,9 @@
 
 ```yaml
 apiVersion: v1
-kind: DevOpsEngineer
+kind: DevOps
 metadata:
   name: Nuri Gundogan
-  namespace: turkey
   labels:
     role: Senior DevOps Engineer
     company: Boyner
